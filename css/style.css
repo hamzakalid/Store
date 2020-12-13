@@ -3466,3 +3466,36 @@ ol {
 		font-size: 24px;
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+/* My Css Style And Bootstrap Updates */
+/* =============================== */
+/* Bootstrap Updates */
+/* Curousel Update */
+.carousel-indicators li {
+    background-color: #666;
+}
+
+.carousel-caption{
+	position: unset;
+}
+.carousel i{
+	color: #EDBB0E;;
+}
+.carousel-control-prev i,
+.carousel-control-next i {
+    color: #333333;
+    font-size: 26px;
+}
+
+/* =============================== */
